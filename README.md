@@ -1,8 +1,8 @@
 # Assignment2_PartA
 building and training the model for iNaturalist dataset
-dl_assn2_parta consist of two files
-1. dl_assn2_parta.ipynb
-2. dl_assn2_parta.py
+Assignment2_PartA consist of two files
+1. Assignment2_PartA.ipynb
+2. Assignment2_PartA.py
 
 run dl_assn2_parta.py with the optinal arguments by using the wandb API key.
 
